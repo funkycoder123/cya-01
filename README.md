@@ -26,7 +26,7 @@ This adventure directly supports both goals. I'm already building production-gra
 
 ## Deliverable Summary
 
-- Applied to 40+ software engineering internship positions** for Summer 2025
+- Applied to 40+ software engineering internship positions for Summer 2025
 - Targeted backend, full-stack, and platform engineering roles at companies ranging from startups to large tech firms
 - Tailored resume emphasizing: Django/Flask, PostgreSQL, REST APIs, Docker, AWS, GitHub Actions, JWT auth
 - Wrote targeted cover letters for select applications
