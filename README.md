@@ -54,20 +54,7 @@ A freight-matching marketplace with 40+ REST API endpoints, JWT authentication, 
 **ZZU Thrift Marketplace** — Full-Stack Web App _(Node.js · JavaScript)_
 A student-to-student marketplace with magic-link auth, real-time messaging, and CRUD listings supporting 50+ products.
 
----
 
-## Repo Structure
-
-```
-cya-01/
-├── README.md                         ← this file
-├── applications/
-│   ├── tracker.md                    ← application log with status
-│   └── cover-letter-[company].md     ← cover letters (one per tailored app)
-└── reflection.md                     ← critical reflection
-```
-
----
 
 ## Links
 
